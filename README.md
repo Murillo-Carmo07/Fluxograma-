@@ -1,5 +1,5 @@
 # Fluxograma
 
-Pensamento lógico
-Introdução a computação 
-Lucidchart
+- Pensamento lógico
+- Introdução a computação 
+- Lucidchart
